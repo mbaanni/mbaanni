@@ -2,8 +2,6 @@
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning C at 1337 School
 
-![mbaanni's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbaanni&show_icons=true&theme=radical)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbaanni&label=Profile%20views&color=0e75b6&style=flat" alt="mbaanni" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mbaanni" alt="mbaanni" /></a> </p>
