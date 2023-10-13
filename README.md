@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mbaanni
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning C at 1337 School
+- 🌱 I’m currently learning C and c++ at 1337 School
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbaanni&label=Profile%20views&color=0e75b6&style=flat" alt="mbaanni" /> </p>
 
