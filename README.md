@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning C and c++ at 1337 School
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cpp,c,docker,vim,bash,nginx,mariadb" />
