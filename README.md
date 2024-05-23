@@ -14,4 +14,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mbaanni&show_icons=true&locale=en" alt="mbaanni" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mbaanni&" alt="mbaanni" /></p>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
