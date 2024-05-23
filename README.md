@@ -16,6 +16,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mbaanni&" alt="mbaanni" /></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,c++,c,docker,nano,vim,bash,nginx,mariadb" />
   </a>
 </p>
