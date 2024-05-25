@@ -4,9 +4,9 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-
+<a href="https://skillicons.dev" >
     <img src="https://skillicons.dev/icons?i=git,cpp,c,docker,vim,bash,nginx,mariadb" />
-
+</a>
 </p>
 
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbaanni&show_icons=true&locale=en&layout=compact" alt="mbaanni" /></p>
