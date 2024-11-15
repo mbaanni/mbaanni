@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning C and c++ at 1337 School
 
 <h3 align="center">Languages and Tools:</h3>
-<a href="https://skillicons.dev" >
-    <img src="https://skillicons.dev/icons?i=cpp,c,bash,bash,python,html,javascript" />
+<a href="https://skillicons.dev" align="left">
+    <img src="https://skillicons.dev/icons?i=cpp,c,bash,python,html,javascript" />
 </a>
-<a href="https://skillicons.dev" >
+<a href="https://skillicons.dev" align="right">
     <img src="https://skillicons.dev/icons?i=git,docker,nginx,django" />
 </a>
 
