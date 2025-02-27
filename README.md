@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @mbaanni
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning C and c++ at 1337 School
+- 🌱 I’m currently learning java
 
 <h3 align="center">Languages and Tools:</h3>
 <a href="https://skillicons.dev" align="left">
-    <img src="https://skillicons.dev/icons?i=cpp,c,bash,python,html,javascript" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,bash,python,html,css,javascript" />
 </a>
 <a href="https://skillicons.dev" align="right">
-    <img src="https://skillicons.dev/icons?i=git,docker,nginx,django" />
+    <img src="https://skillicons.dev/icons?i=git,docker,nginx,django,postgresql" />
 </a>
 
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbaanni&show_icons=true&locale=en&layout=compact" alt="mbaanni" /></p>
