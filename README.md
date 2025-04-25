@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mbaanni
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning java
 
 <h3 align="center">Languages and Tools:</h3>
 <div>
